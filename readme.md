@@ -19,7 +19,8 @@ npm run release
 
 ## Demo 
 You can check this sample running in your browser here:  
-http://matheusfrancisco.com.br/helix-refx-reitit-example
+https://matheusfrancisco.com.br/playground.clojurescript.helix-refx-retiti
+
 
 ### References
 http://rafael.delboni.cc/helix-refx-reitit-example
